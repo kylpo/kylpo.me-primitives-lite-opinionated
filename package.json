@@ -26,7 +26,7 @@
     "@types/react": "17.0.43",
     "@types/react-dom": "17.0.14",
     "ast-pretty-print": "^2.0.1",
-    "chronstruct-primitives-lite": "^0.0.8",
+    "chronstruct-primitives-lite": "^0.0.9",
     "eslint": "8.12.0",
     "eslint-config-next": "12.1.4",
     "next-linaria": "1.0.1-beta",

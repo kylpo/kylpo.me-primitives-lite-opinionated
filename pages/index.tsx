@@ -73,7 +73,7 @@ const Home: NextPage = () => {
             }
           `}
         >
-          <div
+          <space
             className={css`
               flex-basis: 48px;
 
@@ -128,7 +128,7 @@ const Home: NextPage = () => {
             </Link>
           </column>
 
-          <div
+          <space
             className={css`
               flex-basis: 48px;
 
@@ -138,7 +138,7 @@ const Home: NextPage = () => {
             `}
           />
 
-          <div
+          <frame
             className={css`
               padding: 0 16;
             `}
@@ -154,12 +154,12 @@ const Home: NextPage = () => {
             >
               {'<b>Kyle Poole</b> is a full stack web and mobile developer'}
             </Text>
-          </div>
+          </frame>
         </column>
       </column>
 
       {/* Black overlay on page load that fades out */}
-      <div
+      <paper
         className={css`
           position: fixed;
           top: 0;

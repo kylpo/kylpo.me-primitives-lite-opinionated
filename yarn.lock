@@ -1522,10 +1522,10 @@ chalk@^4.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
-chronstruct-primitives-lite@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/chronstruct-primitives-lite/-/chronstruct-primitives-lite-0.0.8.tgz#087438a8174e8aa8d6caca154b09a9a8c80f2622"
-  integrity sha512-K29OmW4i8q368hToqYOIB5DePQK07nvT21tkYHBQjUuB/7tT254/Mn/ZTmGI6vYHnoXcPuZKy47tXE+7i8qLng==
+chronstruct-primitives-lite@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/chronstruct-primitives-lite/-/chronstruct-primitives-lite-0.0.9.tgz#b072ad8868180bf781fbf5f5303b14fddaf7e130"
+  integrity sha512-PBwj4J/8FPC1ERyC0XqGhRmXrGDsdcRJyi5LuPN8D1koaSzGoLGLPuInKBAGuzezhQlY3vY8fti97cGgw2ANJA==
 
 color-convert@^1.9.0:
   version "1.9.3"
